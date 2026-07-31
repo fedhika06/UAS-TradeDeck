@@ -32,7 +32,7 @@ Marketplace B2B bergaya Alibaba menggunakan **NestJS + TypeORM + MySQL** (backen
 
 ```bash
 git clone <repo-url>
-cd trade-market
+cd UAS-TradeDeck
 
 cd backend && npm install && cd ..
 cd frontend && npm install && cd ..
